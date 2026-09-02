@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=devide-width,
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+        <div class="passo" id="passo-0">
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma car
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="1">Pernambuco</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma car
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="1">Pernambuco</button>
+    </main>
 
+
+
+</body>
+</html>
